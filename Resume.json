@@ -1,0 +1,86 @@
+{
+	"basics": {
+		"name": "Ramavath suresh",
+		"label": "Student",
+		"picture": "https://https://www.instagram.com/p/CKbdO6-Aznv/?utm_medium=copy_link",
+		"email": "2020kucp1139@iiitkota.ac.in",
+		"phone": ""
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "Myself Ramavath suresh I am Study from IIITKOTA B-Tech:CSE ,2nd year student",
+		"location": {
+			"address": "Pedda Adiseral pally(Mandal)",
+			"postalCode": "508243",
+			"city": "Nalgonda",
+			"countryCode": "India",
+			"region": "Telangana"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Ramavath suresh",
+				"url": "https://https://https://twitter.com/Ramavat14061971?s=08/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "Ramavath suresh",
+				"url": "https://github.com/2020kucp1139/<handle>/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ramavath suresh",
+				"url": "https://https://https://www.linkedin.com/in/ramavath-suresh-1427a3218/<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "Ramavath suresh",
+				"url": "https://https://https://www.instagram.com/invites/contact/?i=9oreakemmn29&utm_content=icyk3b4/<handle>"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "----",
+		"gpa": "1st semester=5.86",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
